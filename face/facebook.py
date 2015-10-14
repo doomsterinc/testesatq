@@ -8,8 +8,8 @@ GHT = '''
         +=======================================+
         |..........Facebook Cracker v 2.........|
         +---------------------------------------+
-        |#Author: Mauritania Attacker           |
-        |#Contact: www.fb.com/mauritanie.forever|
+        |#Author: Doom          |
+        |#Contact: doomsterinc1@gmail.com|
         |#Date: 02/04/2013                      |
         |#This tool is made for pentesting.     |
         |#Changing the Description of this tool |
