@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# I've added some features to the original work of Jared Stafford.
+# I've added some features to the original work of Doom.
 #
 # -t parameter to optimize the timeout in seconds.
 # -f parameter to log the memleak of vulnerable systems.
@@ -11,8 +11,7 @@
 #
 # Added socket error handler which causes the original version to exit in cases.
 #
-# hybridus (hybridus@gmail.com)
-# CVE-2014-0160
+# doomsterinc (doomsterinc1@gmail.com)
 
 import sys
 import struct
