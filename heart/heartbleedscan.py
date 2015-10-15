@@ -41,6 +41,8 @@ GHT = '''
         +=======================================+
         |.........HeartBleed scanner v 2........|
         +---------------------------------------+
+        
+print GHT
 
 
 options = OptionParser(usage='%prog network(cidr) [options]', description='Test for SSL heartbeat vulnerability (CVE-2014-0160)')
