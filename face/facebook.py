@@ -12,9 +12,6 @@ GHT = '''
         |#Contact: doomsterinc1@gmail.com|
         |#Date: 02/04/2013                      |
         |#This tool is made for pentesting.     |
-        |#Changing the Description of this tool |
-        |Won't made you the coder ^_^ !!!       |
-        |#Respect Coderz ^_^                    |
         |#I take no responsibilities for the    |
         |  use of this program !                |
         +=======================================+
