@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-# python 3.3.2+ Hammer Dos Script v.1
+# python 3.3.2+ Hammering Ddos Script v.3
 # by Doom
 # only for legal purpose
 
