@@ -28,6 +28,20 @@ from netaddr import *
 from socket import error as socket_error
 from random import shuffle
 
+GHT = '''
+        +=======================================+
+        |.........HeartBleed scanner v 2........|
+        +---------------------------------------+
+        |#Author: Doom          |
+        |#Contact: doomsterinc1@gmail.com|
+        |#Date: 02/04/2013                      |
+        |#This tool is made for pentesting.     |
+        |#I take no responsibilities for the    |
+        |  use of this program !                |
+        +=======================================+
+        |.........HeartBleed scanner v 2........|
+        +---------------------------------------+
+
 
 options = OptionParser(usage='%prog network(cidr) [options]', description='Test for SSL heartbeat vulnerability (CVE-2014-0160)')
 options.add_option('-p', '--port', type='int', default=443, help='TCP port to test (default: 443)')
